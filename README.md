@@ -1,24 +1,11 @@
-# README
+# Micro Reddit
+This is a simple command-line Reddit clone built in Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Task
+Create a command-line Reddit clone that supports multiple users, posts, and comments using Rails validations and associations
 
-Things you may want to cover:
+## What I used
+Ruby on Rails, Rails concepts (associations, validations, etc.)
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## What I learned
+How to create associated models and use validations to ensure model validity
